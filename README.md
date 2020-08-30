@@ -3,7 +3,12 @@
 [what this is]
 a python terminal that runs shell scripts
 
+[quide]
+
+you can add your own modules to this terminal. to do so, you need to go into /opt/ in the terminal directory and drop a shell file there. the shell files included do depend on pre-existing terminal commands, but if you feel like it, why not try making something with this shell
+
 [license]
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
