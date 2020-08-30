@@ -1,6 +1,7 @@
 # pyshell
 
 [what this is]
+
 a python terminal that runs shell scripts
 
 [quide]
